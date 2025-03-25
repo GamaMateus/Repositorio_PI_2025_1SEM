@@ -1,7 +1,7 @@
 # Repositorio_PI_2025_1SEM
-Repositorio criado para o Projeto Integrador do Grupo D SENAC/2025.
+Repositório criado para o Projeto Integrador do Grupo D SENAC/2025.
 
-Este projeto consiste em uma plataforma web desenvolvida especialmente para atender as necessidades de profissionais da nutrição. 
+Este projeto consiste em uma plataforma web desenvolvida especialmente para atender às necessidades de profissionais da nutrição. 
 Seu objetivo principal é otimizar e facilitar a rotina diária dos nutricionistas, proporcionando uma gestão eficiente das consultas e dos dados dos pacientes.
 
 # Funcionalidades
