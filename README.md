@@ -16,9 +16,9 @@ Paralelamente, está sendo desenvolvido um sistema de controle das consultas age
 - Anamnese durante a Consulta  
 - Armazenamento de Dados  
 - Cadastro de Pacientes  
-- Controle de Agenda  
-- Histórico de Consultas  
+- Controle de Agenda
 - Gestão de Documentos (exames)  
+- Histórico de Consultas   
 - Módulo de Telemedicina  
 - Notificações e Lembretes  
 
